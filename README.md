@@ -33,7 +33,7 @@ https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/
 ```
 Verify kubectl version by running the below command
 ```sh
-kubectl version 
+kubectl version   
 ```
 
 # Step 2
