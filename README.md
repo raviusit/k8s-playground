@@ -1,7 +1,25 @@
 # k8s-playground
 playground to learn kubernetes and GitOps using ArgoCD
 
-Welcome to the playgorund wiki!
+
+
+This is just a placeholder repo. The code repos for this whole exercise are - 
+
+https://github.com/raviusit/k8s-kind-cluster.git
+
+https://github.com/raviusit/k8s-argocd.git
+
+https://github.com/raviusit/k8s-argocd-apps.git
+
+https://github.com/raviusit/k8s-solve-problems.git
+
+https://github.com/raviusit/hello-kubernetes-dev-config.git
+
+https://github.com/raviusit/hello-kubernetes-prod-config.git
+
+https://github.com/raviusit/k8s-ingress-nginx.git
+
+#Welcome to the playgorund wiki!
 
 ### Pre-Req
 Docker Desktop should be installed & running on your system. 
