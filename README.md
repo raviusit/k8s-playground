@@ -97,6 +97,13 @@ kubectl get applications -n argocd
 
 
 # Step 6
+## Installing Ingress
+
+cd k8s-ingress-nginx
+kubectl apply -k kustomize/base/
+
+
+# Step 7
 ## Accessing ArgoCD
 
 _**Disconnect from any VPN.**_
